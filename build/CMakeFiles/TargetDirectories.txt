@@ -1,3 +1,0 @@
-C:/Dev/sprout-lands/build/CMakeFiles/sprout-lands.dir
-C:/Dev/sprout-lands/build/CMakeFiles/ALL_BUILD.dir
-C:/Dev/sprout-lands/build/CMakeFiles/ZERO_CHECK.dir
